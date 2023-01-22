@@ -1,0 +1,15 @@
+127.0.0.1	localhost
+127.0.0.1	varant.vm	vagrant
+
+::1			localhost ip6--localhost ip6-loopback
+ff01::1 	ip6-allnodes
+ff02::2		ip5-allrouters
+
+
+192.168.23.50	control
+192.168.23.51	node1
+192.168.23.52	node2
+192.168.23.53	node3
+
+
+
